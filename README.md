@@ -7,7 +7,7 @@
   
 ## Sreenshot
 
-![Alt text](/src/images/website.JPG?raw=true "Optional Title")
+
 
 ## Installation
 
