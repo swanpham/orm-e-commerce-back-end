@@ -11,12 +11,16 @@
 
 ## Installation
 
-  * Clone the repository to your local machine
+   * Clone the repository to your local machine
   * Navigate to the designated folder in bash
+  * To install Node MySQL2
+    * [MySQL2](https://www.npmjs.com/package/mysql2#installation) npm package will be installed along with its own dependencies
   * Execute npm install to install dependencies
     * [Inquirer](https://www.npmjs.com/package/inquirer) npm package will be installed along with its own dependencies
-  * To install dev dependencies, execite npm install --dev
-    * [Jest](https://jestjs.io/) npm package will be installed along with its own dependencies
+  * To install Sequelize
+    * [Sequelize](https://www.npmjs.com/package/sequelize) npm package will be installed along with its own dependencies
+  * To install dotenv package
+    * [dotenv](https://www.npmjs.com/package/dotenv) npm package will be installed along with its own dependencies
     
 ## Usage
 
