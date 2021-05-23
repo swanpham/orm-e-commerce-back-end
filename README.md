@@ -15,8 +15,6 @@
   * Navigate to the designated folder in bash
   * To install Node MySQL2
     * [MySQL2](https://www.npmjs.com/package/mysql2#installation) npm package will be installed along with its own dependencies
-  * Execute npm install to install dependencies
-    * [Inquirer](https://www.npmjs.com/package/inquirer) npm package will be installed along with its own dependencies
   * To install Express.js
     * [Express.js](http://expressjs.com/) npm package will be installed along with its own dependencies    
   * To install Sequelize
