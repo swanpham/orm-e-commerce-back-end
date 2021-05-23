@@ -1,11 +1,11 @@
 # E-COMMERCE-BACK-END
 
-## As A Manager
+## AS A manager at an internet retail company
 
-  * I want to to generate a webpage that displays my team's basic info
-  * So that I have quick access to my Employees's emails and GitHub profiles
+  * I WANT a back end for my e-commerce website that uses the latest technologies
+  * SO THAT my company can compete with other e-commerce companies
   
-## Sample HTML file generated 
+## Sreenshot
 
 ![Alt text](/src/images/website.JPG?raw=true "Optional Title")
 
