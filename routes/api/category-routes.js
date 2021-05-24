@@ -28,7 +28,7 @@ router.get('/:id', (req, res) => {
     include: [
       {
         model: Product,
-        attributes: ['id', 'product_name', 'price', 'category_id']
+        attributes: ['id', 'product_name', 'price', 'stock', 'category_id']
       }
     ],
     where: {
@@ -81,7 +81,6 @@ router.put('/:id', (req, res) => {
     console.log(err);
     res.status(500).json(err);
   })
-
 });
 
 router.delete('/:id', (req, res) => {
