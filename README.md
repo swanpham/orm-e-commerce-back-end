@@ -5,7 +5,7 @@
   * I WANT a back end for my e-commerce website that uses the latest technologies
   * SO THAT my company can compete with other e-commerce companies
   
-## Sreenshot
+## Screenshot
 
 ![image](https://user-images.githubusercontent.com/78882909/119286879-561be000-bc13-11eb-9ed3-53a0e528018d.png)
 
