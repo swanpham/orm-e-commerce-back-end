@@ -41,22 +41,20 @@
 * WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
   THEN I am able to successfully create, update, and delete data in my database
 
-## [Walkthrough video](https://drive.google.com/file/d/1q66UZrD1MjCbw15WcaWpLzbmsHb_sRyH/view?usp=sharing)
+## [Walkthrough videos]
+* [Mysql set up](https://drive.google.com/file/d/1SXdudGeUFhUTkMsvNbyKiqhl4JINhFZD/view?usp=sharing)
+* [api Category demo](https://drive.google.com/file/d/1M018OpFXWMSbd-P7I39APsHN79St_9LJ/view?usp=sharing)
+* [api Product demo](https://drive.google.com/file/d/110hHsL3K3K5A8Ey52F8PjyGb-BJmCOvO/view?usp=sharing)
+* [api Tag demo](https://drive.google.com/file/d/1cUrHeOxDto5uAEULhj5LE4t_C7VFwuQ7/view?usp=sharing)
 
 ## Contribution
 
  * This project is not open for contribution
-## Tests
-
-* Ensure npm install --dev has been run after cloning the repo
-* Tests are run using the [Jest](https://jestjs.io/) npm package
-* run npm test to test all suites, or to test individually:
-  * npm test Employee
-  * npm test Manager
-  * npm test Engineer
-  * npm test Inter
   
 ## Built With
 
 - Express.js
 - Javascript
+- Mysql2
+- Sequlize
+- Dotenv
